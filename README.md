@@ -17,20 +17,20 @@ https://github.com/user-attachments/assets/52b40bd0-b672-49d4-828a-8426c9edfae6
  
 ## Tech Stack 📌
 
-TypeScript
+-TypeScript
 
-React
+-React
 
-Tailwind
+-Tailwind
 
-Nodejs
+-Nodejs
 
-NPM
+-NPM
 
-Vite
+-Vite
 
 ## About Me 👩🏾‍💻
 
 Hi, I’m Shanice Thompson—a passionate frontend developer dedicated to building beautiful, accessible, and user-first websites. I care deeply about creating inclusive web experiences and am actively growing in JavaScript, React, and modern frontend tools.
 
- https://github.com/shanice826
+https://github.com/shanice826
