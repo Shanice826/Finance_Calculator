@@ -1,36 +1,47 @@
 # Finance Calculator 💸
-This is a SPA created with React, Tailwind, Typescript and Vite for tracking daily expenses. This can be used in dark mode or light mode, and what expenses or income that is used will show up at the bottom of the screen. 
 
+A simple, responsive Single Page Application (SPA) built with **React**, **TypeScript**, **Tailwind CSS**, and **Vite**.  
+This tool lets users easily track their daily expenses and income — complete with automatic balance calculation and support for dark mode or light mode.
 
-## How To Use The Calculator 🔣
+---
 
-Simply click on the textboxes to input your type of transaction, the price and then choose from the expenses or income list. Once this is completed the transactions will show up at the bottom of the screen that will automatically calculate your spending and income. 
+## 🚀 How To Use
 
-## Live Demo 🖥️
-This can be found at the deployment address:
+1. **Enter** a description, amount, and select whether it’s an **income** or **expense**.
+2. **Submit** your transaction to see it added to the list below.
+3. The balance updates automatically to show your total spending and income.
 
-https://shanice826.github.io/Finance_Calculator/
+---
 
-## Video Demonstration 🎞️
+## 🌐 Live Demo
 
-https://github.com/user-attachments/assets/52b40bd0-b672-49d4-828a-8426c9edfae6
- 
-## Tech Stack 📌
+👉 [View it here!](https://shanice826.github.io/Finance_Calculator/)
 
--TypeScript
+---
 
--React
+## 🎥 Demo Video
 
--Tailwind
+[Watch the walkthrough](https://github.com/user-attachments/assets/52b40bd0-b672-49d4-828a-8426c9edfae6)
 
--Nodejs
+---
 
--NPM
+## 🛠 Tech Stack
 
--Vite
+- **React** — UI library
+- **TypeScript** — typed JS
+- **Tailwind CSS** — utility-first styling
+- **Vite** — fast build tool
+- **Node.js** and **npm**
 
-## About Me 👩🏾‍💻
+---
 
-Hi, I’m Shanice Thompson—a passionate frontend developer dedicated to building beautiful, accessible, and user-first websites. I care deeply about creating inclusive web experiences and am actively growing in JavaScript, React, and modern frontend tools.
+## 👩🏾‍💻 About Me
 
-https://github.com/shanice826
+Hi! I’m **Shanice Thompson**, a dedicated frontend developer focused on creating beautiful, accessible, user-centered web apps.  
+I thrive on clean code, modern stacks, and building inclusive, real-world solutions.
+
+📫 [My GitHub](https://github.com/shanice826)
+
+---
+
+> ✨ *Thank you for checking out my project — I’m actively looking for frontend developer roles!*
